@@ -31,6 +31,9 @@ My research interests primarily lie in the field of agentic reinforcement learni
 - <img src='images/logos/tsinghua.png' style='height: 28px; vertical-align: middle; margin-right: 6px;'> **2024.09 - Present**, Ph.D. @ Department of Computer Science and Technology, Tsinghua University.
 - <img src='images/logos/tsinghua.png' style='height: 28px; vertical-align: middle; margin-right: 6px;'> **2020.09 - 2024.06**, B.Eng @ Department of Computer Science and Technology, Tsinghua University.
 
+# 💻 Internships
+- <img src='images/logos/damo.png' style='height: 28px; vertical-align: middle; margin-right: 6px;'> **2024.11 - Present**, Research Intern @ DAMO Academy, Alibaba Group
+
 # 📝 Publications 
 
 ## Selected Publications:
@@ -89,6 +92,14 @@ Che Liu$^{\*}$, **Zheng Jiang$^{\*}$**, Chengyu Fang$^{\*}$, Heng Guo, Yan-Jie Z
 
 - DynFed: Adaptive Federated Learning via Quantization-Aware Knowledge Distillation, **ACM MM 2025** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755451). Nan He, Yiming Chen, **Zheng Jiang**, Song Yang, Lifeng Sun$^{\dagger}$
 
+- FedSA-LoRA: Federated LoRA Fine-Tuning via Subspace Alignment. Yiming Chen, **Zheng Jiang**, Nan He, Lifeng Sun$^{\dagger}$
+
+- SDFed: Sensitivity-Aware Differential Privacy and Multi-Teacher Distillation in Federated Learning. Nan He, Juan Fang, Yiming Chen, **Zheng Jiang**, Song Yang, Lifeng Sun$^{\dagger}$
+
+- FedICL-KVc: Federated In-Context Learning via KV Cache. Yiming Chen, Nan He, **Zheng Jiang**, Lifeng Sun$^{\dagger}$
+
+- MotionFlow: Real-Time Video Stylization via Motion-Guided Sparse Computation. Jiahui Chen, Rui Zhu, Qian Houde, **Zheng Jiang**, Yue Huang, Zhenan Lin, Chao Zhou, Lifeng Sun$^{\dagger}$
+
 
 # 🎖 Honors and Awards
 - **2024.06**: Outstanding Graduates of Department of Computer Science and Technology, Tsinghua University
@@ -96,6 +107,3 @@ Che Liu$^{\*}$, **Zheng Jiang$^{\*}$**, Chengyu Fang$^{\*}$, Heng Guo, Yan-Jie Z
 
 # 💬 Invited Talks
 - **2026.04**, "MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning", AI TIME.
-
-# 💻 Internships
-- <img src='images/logos/damo.png' style='height: 28px; vertical-align: middle; margin-right: 6px;'> **2024.11 - Present**, Research Intern @ DAMO Academy, Alibaba Group
