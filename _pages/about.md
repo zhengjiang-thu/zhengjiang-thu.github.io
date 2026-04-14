@@ -36,9 +36,9 @@ My research interests primarily lie in the field of agentic reinforcement learni
 
 # 📝 Publications 
 
-## Selected Publications:
-
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
+
+## Selected Publications:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/medvr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,7 +66,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/publications/ttsp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Test-time Scaling over Perception: Resolving the Grounding Paradox in Thinking with Images](todo)
+[Test-time Scaling over Perception: Resolving the Grounding Paradox in Thinking with Images](https://arxiv.org/pdf/2604.11025)
 
 **Zheng Jiang**, Yiming Chen, Nan He, Jiahui Chen, Chaoyang Li, Houde Qian, Lifeng Sun$^{\dagger}$
 
@@ -79,7 +79,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 [M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via Self-Supervision](https://arxiv.org/pdf/2509.01360)
 
-Che Liu$^{\*}$, **Zheng Jiang$^{\*}$**, Chengyu Fang$^{\*}$, Heng Guo, Yan-Jie Zhou, Jiaqi Qu, Le Lu, Minfeng Xu$^{\dagger}$
+Che Liu$^{\*}$, **Zheng Jiang$^{\*}$**, Chengyu Fang$^{\*}$, Heng Guo, Yanjie Zhou, Jiaqi Qu, Le Lu, Minfeng Xu$^{\dagger}$
 
 - A unified visual encoder without any modality-specific customization for various medical visual modalities in 2D and 3D.
 </div>
