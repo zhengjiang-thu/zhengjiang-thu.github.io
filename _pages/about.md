@@ -38,16 +38,14 @@ My research interests primarily lie in the field of agentic reinforcement learni
 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
-## Selected Publications:
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/medvr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/publications/ttsp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning](https://arxiv.org/pdf/2604.08203v1)
+[Test-time Scaling over Perception: Resolving the Grounding Paradox in Thinking with Images](https://arxiv.org/pdf/2604.11025)
 
-**Zheng Jiang$^{\*}$**, Heng Guo$^{\*}$, Chengyu Fang$^{\*}$, Changchen Xiao, Xinyang Hu, Lifeng Sun$^{\dagger}$, Minfeng Xu$^{\dagger}$
+**Zheng Jiang**, Yiming Chen, Nan He, Jiahui Chen, Chaoyang Li, Houde Qian, Lifeng Sun$^{\dagger}$
 
-- MedVR is the first end-to-end reinforcement learning framework that seamlessly integrates visual and textual reasoning for medical VLMs, obviating the need for costly intermediate supervision.
+- TTSP is a test-time scaling framework that resolves the grounding paradox in tool-augmented visual reasoning by scaling perception through parallel exploration, reliability filtering, and iterative knowledge refinement.
 </div>
 </div>
 
@@ -63,18 +61,32 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/publications/ttsp.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/medvr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Test-time Scaling over Perception: Resolving the Grounding Paradox in Thinking with Images](https://arxiv.org/pdf/2604.11025)
+[MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning](https://arxiv.org/pdf/2604.08203v1)
 
-**Zheng Jiang**, Yiming Chen, Nan He, Jiahui Chen, Chaoyang Li, Houde Qian, Lifeng Sun$^{\dagger}$
+**Zheng Jiang$^{\*}$**, Heng Guo$^{\*}$, Chengyu Fang$^{\*}$, Changchen Xiao, Xinyang Hu, Lifeng Sun$^{\dagger}$, Minfeng Xu$^{\dagger}$
 
-- TTSP is a test-time scaling framework that resolves the grounding paradox in tool-augmented visual reasoning by scaling perception through parallel exploration, reliability filtering, and iterative knowledge refinement.
+- MedVR is the first end-to-end reinforcement learning framework that seamlessly integrates visual and textual reasoning for medical VLMs, obviating the need for costly intermediate supervision.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/publications/m3ret.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/photon.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models](https://arxiv.org/pdf/2603.25155)
+
+Chengyu Fang$^{\*}$, Heng Guo$^{\*}$, **Zheng Jiang**, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
+
+- Photon is a variable-length 3D medical VQA framework with instruction-conditioned token scheduling and surrogate gradients, achieving adaptive acceleration and state-of-the-art performance.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/publications/m3ret.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via Self-Supervision](https://arxiv.org/pdf/2509.01360)
@@ -84,22 +96,6 @@ Che Liu$^{\*}$, **Zheng Jiang$^{\*}$**, Chengyu Fang$^{\*}$, Heng Guo, Yanjie Zh
 - A unified visual encoder without any modality-specific customization for various medical visual modalities in 2D and 3D.
 </div>
 </div>
-
-
-## More Publications:
-
-- Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models, **ICLR 2026** [[PDF]](https://arxiv.org/pdf/2603.25155). Chengyu Fang, Heng Guo, **Zheng Jiang**, Chunming He, Xiu Li$^{\dagger}$, Minfeng Xu$^{\dagger}$
-
-- DynFed: Adaptive Federated Learning via Quantization-Aware Knowledge Distillation, **ACM MM 2025** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755451). Nan He, Yiming Chen, **Zheng Jiang**, Song Yang, Lifeng Sun$^{\dagger}$
-
-- FedSA-LoRA: Federated LoRA Fine-Tuning via Subspace Alignment. Yiming Chen, **Zheng Jiang**, Nan He, Lifeng Sun$^{\dagger}$
-
-- SDFed: Sensitivity-Aware Differential Privacy and Multi-Teacher Distillation in Federated Learning. Nan He, Juan Fang, Yiming Chen, **Zheng Jiang**, Song Yang, Lifeng Sun$^{\dagger}$
-
-- FedICL-KVc: Federated In-Context Learning via KV Cache. Yiming Chen, Nan He, **Zheng Jiang**, Lifeng Sun$^{\dagger}$
-
-- MotionFlow: Real-Time Video Stylization via Motion-Guided Sparse Computation. Jiahui Chen, Rui Zhu, Qian Houde, **Zheng Jiang**, Yue Huang, Zhenan Lin, Chao Zhou, Lifeng Sun$^{\dagger}$
-
 
 # 🎖 Honors and Awards
 - **2024.06**: Outstanding Graduates of Department of Computer Science and Technology, Tsinghua University
