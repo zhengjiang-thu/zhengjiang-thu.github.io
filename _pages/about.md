@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a second year PhD student studying at the Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/), advised by [Prof. Lifeng Sun](https://scholar.google.com/citations?user=GySPN6oAAAAJ). I received my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024.
-My research interests primarily lie in the field of agentic reinforcement learning and multi-agent collaboration.
+My research interests primarily lie in the field of multimodal reasoning and self-evolving agents.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- **2026.06**: &nbsp;🎉 One paper accepted by TMLR 2026.
 - **2026.02**: &nbsp;🎉 One paper accepted by CVPR 2026.
 - **2026.01**: &nbsp;🎉 Two papers accepted by ICLR 2026.
 
@@ -32,7 +33,8 @@ My research interests primarily lie in the field of agentic reinforcement learni
 - <img src='images/logos/tsinghua.png' style='height: 28px; vertical-align: middle; margin-right: 6px;'> **2020.09 - 2024.06**, B.Eng @ Department of Computer Science and Technology, Tsinghua University.
 
 # 💻 Internships
-- <img src='images/logos/damo.png' style='height: 28px; vertical-align: middle; margin-right: 6px;'> **2024.11 - Present**, Research Intern @ DAMO Academy, Alibaba Group
+- <img src='images/logos/yuanbao.png' style='height: 28px; vertical-align: middle; margin-left: 17px; margin-right: 17px;'> **2026.06 - Present**, Research Intern @ Yuanbao Group, Tencent
+- <img src='images/logos/damo.png' style='height: 28px; vertical-align: middle; margin-right: 6px;'> **2024.11 - 2026.05**, Research Intern @ DAMO Academy, Alibaba
 
 # 📝 Publications 
 
@@ -86,7 +88,7 @@ Chengyu Fang$^{\*}$, Heng Guo$^{\*}$, **Zheng Jiang**, Chunming He, Xiu Li$^{\da
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/publications/m3ret.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2026</div><img src='images/publications/m3ret.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via Self-Supervision](https://arxiv.org/pdf/2509.01360)
